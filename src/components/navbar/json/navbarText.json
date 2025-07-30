@@ -1,0 +1,10 @@
+{
+  "signup": "Sign up",
+  "options": [
+    { "name": "Connect a wallet" },
+    { "name": "Rankings" },
+    { "name": "Marketplace" }
+  ],
+
+  "logo-text": "NFT Marketplace"
+}

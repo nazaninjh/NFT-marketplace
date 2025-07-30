@@ -12,6 +12,6 @@ export const useStore = create<IThemeSlice>()(
       partialize: (state) => ({
         theme: state.theme,
       }),
-    }
-  )
+    },
+  ),
 );
